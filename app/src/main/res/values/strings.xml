@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SusuPractico</string>
+    <string name="hello">Hey there,</string>
+    <string name="header_account">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="signUp">SIGN UP</string>
+</resources>
